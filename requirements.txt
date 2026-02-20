@@ -1,0 +1,5 @@
+requests
+psycopg2-binary
+geocoder==1.38.1
+python-dotenv
+pydantic-settings
